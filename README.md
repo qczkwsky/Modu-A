@@ -1,1 +1,6 @@
-# Modu-A
+
+# Moduł A
+
+Przykład prostego modułu.
+
+
